@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "880757209418",
+    "project_id": "myneighborhood-7a921",
+    "storage_bucket": "myneighborhood-7a921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880757209418:android:948c4e001900e5384f69b3",
+        "android_client_info": {
+          "package_name": "com.example.myneighborhood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnQldyj4zqBOiXBc24IaQVawUvW_5S4r4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
